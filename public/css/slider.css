@@ -1,0 +1,21 @@
+@keyframes slideshow {
+    0% {background-image: url("../images/page1.jpg");}
+    25% {background-image: url("../images/post3.jpg");}
+    50% {background-image: url("../images/jp.jpg");}
+    75% {background-image: url("../images/tiger-bonzo.gif");}
+    100% {background-image: url("../images/tiger.gif");}
+}
+
+
+
+
+
+.slider{
+  width: 100%;
+  height: 550px;
+  float: left;
+  animation: slideshow 10s linear infinite alternate;
+  background-image: url(/public/images/page1.jpg);
+  background-size: auto;
+ 
+}

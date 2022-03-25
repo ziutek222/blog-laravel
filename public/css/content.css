@@ -1,0 +1,81 @@
+body{
+    background: rgb(135,206,235);
+    background: linear-gradient(45deg, rgba(135,206,235,1) 0%, skyblue 94%);
+}
+
+.content1{
+    width: 80%;
+    height: 300px;
+    float: left;
+    background: rgb(135,206,235);
+    background: linear-gradient(45deg, rgba(135,206,235,1) 0%, rgba(240,248,255,1) 94%);
+    margin-left: 130px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+.content1 img{
+    width: 100%;
+    height: 100%;
+    
+}
+.con1img{
+    width: 40%;
+    float: left;
+}
+
+.con1txt{
+    width: 60%;
+    float: right;
+    text-align: center;
+}
+
+.content2{
+    width: 80%;
+    height: 300px;
+    float: left;
+    background: rgb(135,206,235);
+    background: linear-gradient(45deg, rgba(135,206,235,1) 0%, rgba(240,248,255,1) 94%);
+    margin-left: 130px;
+    margin-right: 50px;
+}
+.content2 img{
+    width: 100%;
+    height: 100%;
+    
+}
+.con2img{
+    width: 40%;
+    float: left;
+}
+
+.con2txt{
+    width: 60%;
+    float: left;
+    text-align: center;
+}
+
+.content3{
+    width: 80%;
+    height: 300px;
+    float: left;
+    background: rgb(135,206,235);
+    background: linear-gradient(45deg, rgba(135,206,235,1) 0%, rgba(240,248,255,1) 94%);
+    margin-left: 130px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    
+}
+.content3 img{
+    width: 100%;
+    height: 100%;
+}
+.con3img{
+    width: 40%;
+    float: left;
+}
+
+.con3txt{
+    width: 60%;
+    float: right;
+    text-align: center;
+}

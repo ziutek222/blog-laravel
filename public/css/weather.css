@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.body{
+    background-image: url("../images/weather.jpg");
+}
+.pawel{
+    height: 16vh;
+    width: 100%;
+    background-image: url("../images/weather.jpg");
+}
+.weatherWidget{
+    width: 100%;
+    height: 80vh;
+    background-size: cover;
+    background-image: url("../images/weather.jpg");
+}
+.visualcrossing-wx-widget .title {
+    overflow: hidden !important; 
+    white-space: nowrap;
+    font-size: 30px !important;
+    text-align: center;
+    padding: 3px 0px
+}
+.pawel h1{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+    color: lightblue;
+    text-shadow: 3px 3px black;
+}
+.visualcrossing-wx-widget .credit{
+    display: none;
+}
+.visualcrossing-wx-widget .period .maxt{
+    font-size: 30px !important;
+}
+.visualcrossing-wx-widget .period .date{
+    font-size: 15px !important;
+}
+
+.visualcrossing-wx-widget .current .summary .temp{
+    font-size: 0px !important; 
+}
+.visualcrossing-wx-widget .current .icon{
+    display: none;
+}
