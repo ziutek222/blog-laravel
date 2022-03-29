@@ -29,7 +29,7 @@
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 60px;
     color: lightblue;
-    text-shadow: 3px 3px black;
+    text-shadow: 5px 5px firebrick ;
 }
 .visualcrossing-wx-widget .credit{
     display: none;

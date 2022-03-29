@@ -19,3 +19,11 @@
   background-size: auto;
  
 }
+
+@media all and (max-width: 600px) {
+    .slider{
+      width: 100%;
+      height: 300px;
+      background-size: cover;
+    }
+}
